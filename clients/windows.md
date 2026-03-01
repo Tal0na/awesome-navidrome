@@ -1,4 +1,4 @@
-(English) Best Windows clients for Navidrome
+Best Windows clients for Navidrome
 
 - **Navidrome Web UI (browser)** — FOSS. The built-in web interface is cross-platform and recommended for desktop use.
 - **Subsonic Desktop Player / Subsonic-compatible players** — Paid or free variants exist; many desktop players support Subsonic APIs (check project pages for license/pricing).
