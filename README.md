@@ -83,4 +83,4 @@ Feel free to open issues or submit pull requests to improve this repository.
 
 ## 📜 License
 
-MIT (or choose your preferred license)
+gnu
