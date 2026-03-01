@@ -1,4 +1,4 @@
-(English) Best iOS clients for Navidrome
+Best iOS clients for Navidrome
 
 - **Subsonic (iOS app)** — Paid. Official Subsonic client frequently compatible with Navidrome; check App Store for availability and pricing.
 - **Vox Music Player** — Paid/Freemium. A popular iOS player with various streaming/back-end integrations; confirm Navidrome compatibility per version.
