@@ -1,4 +1,4 @@
-(English) Best Linux clients for Navidrome
+Best Linux clients for Navidrome
 
 - **Navidrome Web UI (browser)** — FOSS. Recommended: use any modern browser for full functionality.
 - **Subsonic-compatible desktop players** — Various FOSS and paid players exist for Linux (e.g., native Linux builds or AppImages); check project pages for license details.
