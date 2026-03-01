@@ -1,4 +1,4 @@
-(English) Best Android clients for Navidrome
+Best Android clients for Navidrome
 
 - **DSub** — Paid (Play Store). Popular Subsonic-compatible Android client with offline sync, gapless playback and scrobbling. (Please verify current pricing and license.)
 - **Ultrasonic** — FOSS. Open-source Subsonic/Navidrome-compatible client; community-maintained. (Verify repository and license.)
