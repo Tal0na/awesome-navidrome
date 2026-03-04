@@ -1,89 +1,23 @@
-# 🎵 Navidrome Power Plugins Pack
+# 🔌 Best Navidrome Plugins
 
-> A curated collection of high-quality community plugins that extend Navidrome with lyrics, Discord integration, AI discovery, and ListenBrainz automation.
+## 🔳 Plugin Comparison
 
----
-
-## 📚 Official Documentation
-
-Before installing any plugin, read the official Navidrome plugin documentation:
-
-🔗 https://www.navidrome.org/docs/usage/features/plugins/
-
----
-
-## 🔗 Quick Access
-
-| Plugin | Description |
-|--------|------------|
-| 🧩 [navidrome-lrclib-plugin](https://github.com/kepelet/navidrome-lrclib-plugin) | Automatic lyrics fetching |
-| 🎮 [discord-rich-presence-plugin](https://github.com/navidrome/discord-rich-presence-plugin) | Discord Rich Presence integration |
-| 🤖 [AudioMuse-AI-NV-plugin](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) | AI-powered music discovery |
-| 🧠 [navidrome-listenbrainz-daily-playlist](https://github.com/kgarner7/navidrome-listenbrainz-daily-playlist) | Daily playlists from ListenBrainz |
+| Plugin | Open Source | Price | What It Does |
+|--------|-------------|-------|---------------|
+| **Navidrome ListenBrainz Daily Playlist** | ✅ Yes | Free | Creates daily playlists from your ListenBrainz history |
+| **navidrome-lrclib-plugin** | ✅ Yes | Free | Automatically fetches & stores lyrics |
+| **discord-rich-presence-plugin** | ✅ Yes | Free | Shows what you’re playing on Discord |
+| **AudioMuse-AI-NV-plugin** | ✅ Yes | Free | Adds AI music discovery & recommendations |
 
 ---
 
-# 📦 Plugins Overview
+## 📝 Quick Notes
+
+- **ListenBrainz Daily Playlist** → Automatic dynamic playlists based on what you listen to.
+- **LRCLIB Plugin** → Keeps lyrics in your library without uploading them manually.
+- **Discord Rich Presence** → Shows your current track in Discord.
+- **AudioMuse AI** → Adds smart recommendations and discovery features.
 
 ---
 
-## 🧩 navidrome-lrclib-plugin
-Automatically fetches and stores song lyrics during library scans.
-
-**Highlights**
-- Fetches from LRCLIB-compatible servers  
-- Stores lyrics in Navidrome metadata  
-- Supports synced lyrics (.lrc)  
-
-**Best for:** Users who want automatic lyrics without manual files.
-
----
-
-## 🎮 discord-rich-presence-plugin
-Displays currently playing music in Discord Rich Presence.
-
-**Highlights**
-- Track name, artist & album artwork  
-- Real-time playback progress  
-- Auto-clears when playback stops  
-- Per-user support  
-
-**Best for:** Sharing your listening activity live on Discord.
-
----
-
-## 🤖 AudioMuse-AI-NV-plugin
-Adds AI-powered discovery and recommendation features.
-
-**Highlights**
-- Instant Mix (audio similarity)  
-- Artist similarity discovery  
-- AI radio mode  
-- Metadata enrichment  
-
-**Best for:** Smarter discovery without streaming services.
-
----
-
-## 🧠 navidrome-listenbrainz-daily-playlist
-Generates automatic daily playlists using ListenBrainz history.
-
-**Highlights**
-- New playlist every day  
-- Personalized from listening history  
-- Fully automated  
-
-**Best for:** Dynamic playlists based on your real listening habits.
-
----
-
-# 🛠 Installation
-
-Most plugins follow the same installation pattern.
-
-## 1️⃣ Locate Plugins Directory
-
-Default path:
-
-```bash
-/var/lib/navidrome/plugins
+> All plugins listed are open source and free. Always check the plugin repos for installation steps and extra settings.
