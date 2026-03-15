@@ -8,13 +8,18 @@ A curated list of recommended Linux clients compatible with **Selfhost Music** a
 
 ### Feishin
 
-- **API Support:** ✅ Navidrome / ✅ Jellyfin
+- **API Support:** ✅ Navidrome / ✅ Jellyfin / ✅ OpenSubsonic
 - **License:** GPL-3.0
 - **Open Source:** ✅ Yes
 - **Price:** 🆓 Free
 - **Rating:** ⭐⭐⭐⭐⭐
-- **Last Update:** Feb 2026 (v1.6.0)
-- **Notes:** Most versatile client. Modern UI with native support for both servers. 🛠️
+- **Last Update:** Feb 2026 (v1.8.0)
+- **Highlights:**
+  - MPV player backend
+  - Web player backend
+  - Modern UI
+  - Smart playlist editor (Navidrome)
+  - Synchronized and unsynchronized lyrics support
 
 ---
 

@@ -8,7 +8,7 @@ A curated list of Windows desktop clients compatible with **Selfhost Music** and
 
 ### Feishin
 
-- **Support:** ✅ Selfhost Music / ✅ Jellyfin / ✅ Subsonic / ✅ OpenSubsonic  
+- **API Support:** ✅ Navidrome / ✅ Jellyfin / ✅ OpenSubsonic
 - **License:** GPL-3.0  
 - **Open Source:** ✅ Yes  
 - **Price:** 🆓 Free  
