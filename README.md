@@ -41,7 +41,7 @@ Music players and applications compatible with Selfhost Music.
 
 ### 📱 Terminal Clients
 
-- [CLI / TUI](clients/tui.md)
+- [Terminal CLI / TUI](clients/tui.md)
 
 ---
 
