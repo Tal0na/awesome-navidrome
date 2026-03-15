@@ -31,6 +31,10 @@ Music players and applications compatible with Selfhost Music.
 
 - [Web Clients](clients/web.md)
 
+### 📱 Terminal Clients
+
+- [CLI / TUI](clients/tui.md)
+
 ---
 
 ## 🎨 Themes
