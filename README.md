@@ -12,6 +12,14 @@ Self-hosted music platforms allow you to build your own personal streaming servi
 
 ---
 
+## 🎨 Servers
+
+Platforms that host and stream your music library
+
+- [Servers](Servers/README.md)
+
+---
+
 ## 📱 Clients
 
 Music players and applications compatible with Selfhost Music.
