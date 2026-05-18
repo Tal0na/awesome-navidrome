@@ -4,7 +4,7 @@ A small collection of useful plugins that extend **self-hosted music servers** l
 
 ---
 
-## 🧠 Navidrome ListenBrainz Daily Playlist
+#### 🧠 Navidrome ListenBrainz Daily Playlist
 
 🔗 [navidrome-listenbrainz-daily-playlist](https://github.com/kgarner7/navidrome-listenbrainz-daily-playlist)
 
@@ -15,7 +15,7 @@ This repository contains a plugin for fetching daily playlists from ListenBrainz
 
 ---
 
-## 🧩 navidrome-lrclib-plugin
+#### 🧩 navidrome-lrclib-plugin
 
 🔗 [navidrome-lrclib-plugin](https://github.com/kepelet/navidrome-lrclib-plugin)
 
@@ -26,7 +26,7 @@ Automatically **fetches and stores lyrics** for songs in your Navidrome library.
 
 ---
 
-## 🎮 discord-rich-presence-plugin
+#### 🎮 discord-rich-presence-plugin
 
 🔗 [discord-rich-presence-plugin](https://github.com/navidrome/discord-rich-presence-plugin)
 
@@ -37,7 +37,7 @@ Displays the **music you're currently playing in Discord Rich Presence**.
 
 ---
 
-## 🤖 AudioMuse-AI-NV-plugin
+#### 🤖 AudioMuse-AI-NV-plugin
 
 🔗 [AudioMuse-AI-NV-plugin](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin)
 - **Open Source:** ✅ Yes
@@ -47,7 +47,7 @@ Adds **AI-powered discovery and recommendations** based on your music library.
 
 ---
 
-## 🧠 Apple Music Metadata Plugin for Navidrome
+#### 🧠 Apple Music Metadata Plugin for Navidrome
 
 🔗 [apple-music-plugin](https://github.com/navidrome/apple-music-plugin)
 
@@ -56,7 +56,7 @@ Adds **AI-powered discovery and recommendations** based on your music library.
 
 This plugin fetches artist and album metadata from Apple Music using free iTunes/Apple Music endpoints — no API key or authentication required. It provides artist biographies, images, similar artists, top songs, and album artwork by scraping Apple Music web pages and querying the iTunes Search/Lookup APIs.
 
-## 🧠 navidrome-mood-plugin
+#### 😃 navidrome-mood-plugin
 
 🔗 [avidrome-mood-plugin](https://github.com/RFLundgren/navidrome-mood-plugin)
 
