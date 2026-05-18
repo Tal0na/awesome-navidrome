@@ -19,8 +19,7 @@
   - [🎨 Themes](#-themes)
   - [🐳 Deployment](#-deployment)
   - [🌐 Remote Access](#-remote-access)
-  - [🔗 Integrations](#-integrations)
-  - [🛠️ Tools](#️-tools)
+  - [�️ Tools](#️-tools)
   - [🤝 Contributing](#-contributing)
   - [📜 License](#-license)
 
@@ -102,14 +101,6 @@ See → [deployment/README.md](deployment/README.md)
 > Guides for accessing your self-hosted music servers remotely.
 
 See → [remote-access/README.md](remote-access/README.md)
-
----
-
-## 🔗 Integrations
-
-> External services and connected platform guides.
-
-See → [integrations/README.md](integrations/README.md)
 
 ---
 
